@@ -1,4 +1,4 @@
-<meta http-equiv='refresh' content='3; url=https://you-hands.ru'>
+<meta http-equiv='refresh' content='3; url=https://https://awe-png.github.io'>
 <meta charset="UTF-8" />
 <?php
 
@@ -20,7 +20,7 @@
 	 
 
 
-	$address = "YOUR-EMAIL@MAIL.RU";//адрес куда будет отсылаться сообщение для администратора
+	$address = "pesterev.1337@yandex.ru";//адрес куда будет отсылаться сообщение для администратора
 	$mes  = "Имя: $name \n";	//в этих строчках мы заполняем текст сообщения. С помощью опрератора .= мы просто дополняем текст в переменную
 	$mes .= "E-mail: $email \n";
  	$mes .= "Тема: $sub \n";
